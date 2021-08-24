@@ -1,0 +1,30 @@
+.sobre-web-designer {
+    align-items: center;
+}
+
+.sobre-web-designer article {
+    width: 250px;
+}
+
+.sobre-web-designer article h1 {
+    font-size: 70px;
+    line-height: 90%;
+    font-weight: 600;
+    color: #333366;
+}
+.sobre-web-designer article h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 200%;
+    color: #3399cc;
+}
+
+.sobre-web-designer article p {
+    margin: 10px 0 40px 0;
+    color: #39c;
+}
+
+.sobre-web-designer figcaption img {
+    width: 800px;
+}
